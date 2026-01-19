@@ -7,7 +7,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Welcome to the Ontario G1 Practice Test");
-333
+
         //Part A
         ArrayList<String> questionsA = new ArrayList<String>();
         ArrayList<String> a1 = new ArrayList<String>();
